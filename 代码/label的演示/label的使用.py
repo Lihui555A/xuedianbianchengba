@@ -75,5 +75,3 @@ class Ui_Form(object):
         self.label_6.setText(_translate("Form", "动画"))
         self.pushButton_4.setText(_translate("Form", "播放动画"))
         self.label_7.setText(_translate("Form", "自动适应大小"))
-
-print('hehehehehe')
